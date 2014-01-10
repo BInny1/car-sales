@@ -5,7 +5,7 @@ using System.Text;
 
 namespace HotLeadBL
 {
-    public class Class1
+    public class Class2
     {
     }
 }
